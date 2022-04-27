@@ -1,0 +1,39 @@
+.a{
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    outline: none;
+    border: 1px solid transparent;
+    width: 250px;
+    border-radius: 5px;
+    height: 25px;
+  }
+  .b{
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    outline: none;
+    border: 1px solid transparent;
+    width: 250px;
+    border-radius: 5px;
+    height: 25px;
+  }
+  .b:hover {background-color: #ddd;}
+  .a__selected{
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    outline: none;
+    border: 1px solid transparent;
+    width: 250px;
+    border-radius: 5px;
+    height: 25px;
+      background-color: #ddd !important;
+  }
+  .a__heading{
+      border: 1px solid gray;
+
+  }
